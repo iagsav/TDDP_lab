@@ -1,0 +1,7 @@
+﻿C:\Users\Алексей\Desktop\GridComputing\RemoteAdmin\bin\Debug\RemoteAdmin.exe.config
+C:\Users\Алексей\Desktop\GridComputing\RemoteAdmin\obj\Debug\RemoteAdmin.exe
+C:\Users\Алексей\Desktop\GridComputing\RemoteAdmin\obj\Debug\RemoteAdmin.pdb
+C:\Users\Алексей\Desktop\GridComputing\RemoteAdmin\obj\Debug\RemoteAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\ТРод\GridComputing\RemoteAdmin\bin\Debug\RemoteAdmin.exe.config
+C:\Users\Алексей\Desktop\ТРод\GridComputing\RemoteAdmin\obj\Debug\RemoteAdmin.exe
+C:\Users\Алексей\Desktop\ТРод\GridComputing\RemoteAdmin\obj\Debug\RemoteAdmin.pdb
